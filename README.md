@@ -1,5 +1,5 @@
 # Desafio Mirae – React
-Desafio para vaga de Front-end developer na Mirae Asset Wealth Management com requisitos de React. FAça um fork deste repositório e nos envia seu PR.
+Desafio para vaga de Front-end developer na Mirae Asset Wealth Management com requisitos de React. Faça um fork deste repositório e nos envia seu PR.
 
 ## Objetivo
 Criar a visualização das ofertas de renda fixa da corretora utilizando os breakpoints no final deste documento como guia, sinta-se livre para criar a tela como quiser, porem respeitando os requisitos solicitados e que seja responsivo.
